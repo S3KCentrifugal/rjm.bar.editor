@@ -1,0 +1,19 @@
+# Godot 4
+.godot/
+/android/
+export_presets.cfg
+*.translation
+
+# Build output
+/build/
+/export/
+/bin/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Scratch
+/out/
